@@ -1,7 +1,10 @@
 # Movie Recommendation System Using Machine Learning
 
 This is the backend of the Movie recommendation webApp that helps users see similar movies to their movie choice
-
+Backend_url = 
+``` bash
+https://my-movie-recommender-blo9.onrender.com
+```
 
 ## BACKEND Features
 
@@ -58,7 +61,7 @@ locally
 
 2. Install dependencies:
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 3. Go to tmdb developer
 - Create an account
